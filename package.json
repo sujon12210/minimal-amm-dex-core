@@ -1,0 +1,8 @@
+{
+  "name": "minimal-amm-dex-core",
+  "version": "1.0.0",
+  "description": "Constant Product AMM implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
